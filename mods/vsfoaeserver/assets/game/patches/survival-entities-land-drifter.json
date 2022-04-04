@@ -1,0 +1,15 @@
+[
+    {
+        "file": "vsroleplaymobs:entities/land/wild-goblin",
+        "op": "add",
+        "path": "/drops/-",
+        "value": {
+            "type": "item",
+            "code": "vsroleplayclasses:runeofpower-mora",
+            "quantity": {
+                "avg": 1,
+                "var": 1
+            }
+        }
+    }
+]

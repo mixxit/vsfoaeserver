@@ -1,0 +1,16 @@
+{
+    "type": "code",
+    "modid": "vsfoaeserver",
+    "name": "vsfoaeserver",
+    "authors": [ "mixxit" ],
+    "description": "Mods for FOAE server",
+    "version": "1.16.4-rc.1",
+    "dependency": {
+        "game": "1.16.4",
+        "survival": "1.16.4",
+        "vsroleplaymobs": "1.16.4-rc.3",
+        "vsroleplayclasses": "1.16.4-rc.37"
+    },
+    "requiredOnClient": "true",
+    "requiredOnServer": "true"
+}
